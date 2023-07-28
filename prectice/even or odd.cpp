@@ -1,5 +1,7 @@
 #include<iostream>
+
 using namespace std;
+
 int main(){
     int a;
     cin>>a;
@@ -10,6 +12,7 @@ int main(){
         default:
             cout<<"Odd"<<endl;
     }
+    
     return 0;
 
 }
