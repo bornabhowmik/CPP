@@ -22,4 +22,5 @@ int main(){
         default:
             cout<<"Consonant"<<endl;
     }
+    return 0;
 }
