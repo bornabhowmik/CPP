@@ -5,6 +5,6 @@ int main()
     int a,b;
     cin>>a>>b;
     int mod=a%b;
-    cout<<mod<<endl;0
+    cout<<mod<<endl;
     return 0;
 }
